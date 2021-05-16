@@ -1,0 +1,36 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.App{
+    height: 600px;
+}
+.App-child{
+    background-color: tomato;
+    border: 1px solid white;
+}
+.counter{
+    background-color: white;  
+    width: 80%;
+    margin: auto;
+    margin-top:100px;
+    margin-bottom:100px;
+    border: 2px solid black;
+}
+ul{
+    
+    list-style: none;
+    padding: 0;
+}
+.counter h2{
+    padding: 10px;
+    width: 95%;
+    margin: auto;
+    margin-top: 40px ;
+    margin-bottom: 20px ;
+    background-color: tomato;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}

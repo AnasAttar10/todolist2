@@ -1,0 +1,17 @@
+.FormItems{
+ width: 95%;
+ margin: auto;
+}
+form input{
+    padding: 10px;
+    font-size: 18px;
+}
+form input:first-of-type{
+    width: 80%;
+    background-color: white;
+}
+form input:last-of-type{
+    width: 20%;
+    background-color: green;
+    color: white;
+}

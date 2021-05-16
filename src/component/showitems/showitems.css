@@ -1,0 +1,34 @@
+
+.showitems{
+    overflow: hidden;
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+}
+.showitems li{
+    padding: 10px;
+    float: left;
+    width: 60%;
+    font-size: 20px;
+}
+.showitems input{
+    padding: 10px;
+    font-size: 19px;
+    float: left;
+    padding: 10px;
+    width: 20%;
+}
+.showitems input:first-of-type{
+    background-color:red;
+    color: white;
+}
+.showitems input:last-of-type{
+    background-color: yellow;
+    color: black;
+}
+.showitems1{
+    overflow: hidden;
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+}
